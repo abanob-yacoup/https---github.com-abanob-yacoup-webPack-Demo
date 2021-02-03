@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(135, 222, 135);
+    /* display: flex; */
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+}
